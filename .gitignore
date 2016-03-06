@@ -1,0 +1,10 @@
+*.obj
+Project1/Debug/Project1.Build.CppClean.log
+*.log
+Project1/Debug/Project1.tlog/cl.command.1.tlog
+*.tlog
+Project1/Debug/vc120.idb
+*.pdb
+*.dll
+Project1/Project1.vcxproj
+*.filters
